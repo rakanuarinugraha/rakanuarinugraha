@@ -58,3 +58,24 @@ I am a Full Stack Developer passionate about building scalable web applications 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### Featured Projects
+#### 🤖 Job Match AI
+
+An AI-powered web app that automatically matches job seekers’ CVs with relevant job listings. Users upload a PDF CV, the system parses it using Gemini API, fetches real-time job data from Adzuna, and returns a match score, matched skills, skill gaps, and job recommendations.
+##### Tech Stack: Next.js 16, TypeScript, Supabase, Gemini API, Adzuna API, Resend, Vercel
+##### Live: https://job-matchai-app.vercel.app
+
+#### 📋 Taskify
+
+A Trello-inspired kanban board application for personal and small-team task management. Supports drag and drop between columns, real-time synchronization via Socket.IO, and full task lifecycle tracking from To Do to Done.
+##### Tech Stack: React, TypeScript, Tailwind CSS, dnd-kit, Socket.IO, Node.js, Express, Prisma, PostgreSQL
+##### Live: https://taskify-task-seven.vercel.app
+
+#### 🔗 Short10
+
+A web-based URL shortener with user authentication, a dashboard to manage and track short links, fast redirect, and QR code generation for every link so they’re easy to share or scan from mobile.
+##### Tech Stack: Go, Gin, GORM, Next.js, TypeScript, PostgreSQL, JWT, go-qrcode, Railway, Vercel, Supabase
+##### Live: https://short10-app.vercel.app
